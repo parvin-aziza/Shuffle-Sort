@@ -75,6 +75,7 @@ body{
 }
 
 /*Mobile view*/
+/* Media Size as per given criteria*/
 @media  (max-width:375px){
 
     .row{
